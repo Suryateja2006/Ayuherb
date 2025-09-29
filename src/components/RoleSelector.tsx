@@ -26,7 +26,7 @@ const roles = [
   },
   {
     id: "collector",
-    title: "Collector (AEO)",
+    title: "Collector",
     description: "Collect herb batches and generate batch IDs",
     icon: Truck,
     features: ["Batch ID generation", "Farmer coordination", "Logistics tracking"],
